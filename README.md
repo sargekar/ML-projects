@@ -1,4 +1,4 @@
-## Implementation of Logistic Regression for UCI dataset 
+# Implementation of Logistic Regression for UCI dataset 
 
 # Requirements
 The core libraries used across projects include but are not limited to:
